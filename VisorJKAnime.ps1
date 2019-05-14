@@ -1,5 +1,8 @@
-﻿#Powershell 3.0 https://www.microsoft.com/en-us/download/details.aspx?id=34595
- #DEPRECATED
+####################################
+##############OUTDATED##############
+####################################
+#Powershell 3.0 https://www.microsoft.com/en-us/download/details.aspx?id=34595
+
 
 Add-Type -AssemblyName System.Windows.Forms 
 #Interfaz
